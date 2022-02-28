@@ -1,0 +1,1 @@
+console.log((80/60).toString().split('.')[0], 80 % 60)
